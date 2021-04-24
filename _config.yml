@@ -7,7 +7,7 @@ permalink: :slug
 
 social:
   twitter: _SupunKavinda
-  github: SupunKavinda
+  github: arjunnarain
 
 plugins:
  - jekyll-feed
