@@ -2,9 +2,12 @@
 title: Contact
 layout: page
 ---
+## Bit Please!
 
-You can always contact the creator of this theme via [Twitter](https://twitter.com/_SupunKavinda).
+Oh, so you manged to get here. Well, hello then. I really have never understood why anyone would ever want to read this.
 
-If you need help with Jekyll, ask questions on [Jekyll Talk](https://talk.jekyllrb.com/).
+Nonetheless, towards fulfilling another cliché. You can reach out to me on:
 
-(Change this by editing `contact.md` file)
+**Email**: narain.arjun@gmail.com
+
+**Linkedin**:  [arjunnarain](https://www.linkedin.com/in/arjunnarain/)

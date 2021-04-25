@@ -1,4 +1,4 @@
-title: Leaf Blog
+title: Arjun's Dev Log
 iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
 
@@ -6,7 +6,7 @@ theme: jekyll-theme-leaf
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
+  twitter: nerdypolymath
   github: arjunnarain
 
 plugins:
